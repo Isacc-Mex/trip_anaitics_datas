@@ -14,6 +14,46 @@ Este repositorio contiene la aplicación web y la simulación de datos utilizada
 - **Repositorio:** [URL de GitHub](https://github.com/Isacc-Mex/trip_anaitics_datas)
 - **Aplicación publicada:** Completar con la URL de despliegue, si existe
 
+## Capturas de Pantalla del Dashboard y Panel de Administración
+
+### 1. Resumen General e Indicadores Clave
+![Resumen General](images/admin_resumen_general.png)
+*Vista principal del panel de administración con KPIs de ventas, retención, conversión y partidas.*
+
+### 2. Comportamiento, Retención e Ingresos
+| Retención y Ranking de Mapas | Evolución de Ingresos y MAU |
+| :---: | :---: |
+| ![Retención y Mapas](images/admin_retencion_mapas.png) | ![Ingresos y Usuarios](images/admin_ingresos_usuarios.png) |
+*Gráficos de retención (D1, D7, D30), mapas más jugados, tiempos promedio e ingresos acumulados.*
+
+### 3. Módulos de Control y Gestión
+
+#### Simulación de Datos
+![Simulación de Datos](images/admin_simulacion_datos.png)
+*Panel para ejecutar funciones SQL de simulación de bots, partidas y compras.*
+
+#### Gestión del Catálogo
+![Gestión de Productos](images/admin_gestion_productos.png)
+*Interfaz para agregar, editar y administrar productos digitales y físicos.*
+
+#### Exportación de Datos
+![Exportar Datos](images/admin_exportar_datos.png)
+*Módulo de descarga de tablas principales (profiles, products, purchases, game_matches) en formato CSV.*
+
+## Documentación del Proyecto
+
+| # | Documento | Archivo | Formato |
+| :-: | :--- | :--- | :-: |
+| **1.** | Documentación Técnica | [Documentacion_Tecnica.pdf](docs/Documentacion_Tecnica.pdf) | PDF |
+| **2.** | Hallazgos, Diagnóstico y Recomendaciones | [Hallazgos_Diagnostico_Recomendaciones_TRIP_FINAL_VALIDADO.pdf](docs/Hallazgos_Diagnostico_Recomendaciones_TRIP_FINAL_VALIDADO.pdf) | PDF |
+| **3.** | Uso de Inteligencia Artificial | [ai-usage.pdf](docs/ai-usage.pdf) | PDF |
+| **4.** | Contexto del Proyecto | [context.md](docs/context.md) | Markdown |
+| **5.** | Proceso ETL | [etl-process.md](docs/etl-process.md) | Markdown |
+| **6.** | Indicadores Clave (KPIs) | [kpis.pdf](docs/kpis.pdf) | PDF |
+| **7.** | Manual de Usuario | [manual-usuario.pdf](docs/manual-usuario.pdf) | PDF |
+| **8.** | Reporte Ejecutivo | [reporte-ejecutivo.pdf](docs/reporte-ejecutivo.pdf) | PDF |
+| **9.** | Reglas de Simulación | [simulation-rules.pdf](docs/simulation-rules.pdf) | PDF |
+
 ## Contexto del negocio
 
 TRIP es un negocio digital de entretenimiento. Sus usuarios pueden registrarse, jugar partidas, consultar su progreso y adquirir contenido digital desde una tienda integrada.
