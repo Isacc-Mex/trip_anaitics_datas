@@ -24,7 +24,7 @@ Este repositorio contiene la aplicación web y la simulación de datos utilizada
 | Retención y Ranking de Mapas | Evolución de Ingresos y MAU |
 | :---: | :---: |
 | ![Retención y Mapas](images/admin_retencion_mapas.png) | ![Ingresos y Usuarios](images/admin_ingresos_usuarios.png) |
-*Gráficos de retención (D1, D7, D30), mapas más jugados, tiempos promedio e ingresos acumulados.*
+*Gráficos de retención (D1, D7, D30), mapas más jugados, tiempos promedio.* | *Graficas de ingresos acumulados y usuarios.*
 
 ### 3. Módulos de Control y Gestión
 
