@@ -1,0 +1,6 @@
+table,source,status,raw_rows,processed_rows,rejected_rows,raw_duplicates,processed_nulls
+profiles,C:\Users\Andyl\Downloads\TRIP\vite-project\data\raw\profiles.csv,available,1007,1007,0,0,2005
+products,C:\Users\Andyl\Downloads\TRIP\vite-project\data\raw\products.csv,available,17,17,0,0,11
+purchases,C:\Users\Andyl\Downloads\TRIP\vite-project\data\raw\purchases.csv,available,682,680,2,0,0
+game_matches,C:\Users\Andyl\Downloads\TRIP\vite-project\data\raw\game_matches.csv,available,12043,1008,11035,0,1450
+progress,C:\Users\Andyl\Downloads\TRIP\vite-project\data\raw\progress.csv,missing,0,0,0,0,0
