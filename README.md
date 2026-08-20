@@ -299,8 +299,8 @@ npm run preview
 
 ## Entregables
 
-- [x] Contexto, problema, objetivos, preguntas y stakeholders.
-- [x] Modelo de entidades, fuentes y diccionario de datos.
+- [o] Contexto, problema, objetivos, preguntas y stakeholders.
+- [o] Modelo de entidades, fuentes y diccionario de datos.
 - [x] Reglas y script de simulación.
 - [x] Dataset original y procesado.
 - [x] ETL y reporte de calidad.
@@ -309,12 +309,12 @@ npm run preview
 - [x] Catálogo de KPI.
 - [x] Dashboard del dueño.
 - [x] Dashboard del jugador.
-- [x] Hallazgos, diagnóstico y recomendaciones.
+- [o] Hallazgos, diagnóstico y recomendaciones.
 - [x] Reporte ejecutivo y manual de usuario.
 - [x] README del proyecto.
 - [x] Documentación técnica y registro de IA.
 - [x] Evidencias de GitHub.
-- [x] Presentación y demostración.
+- [ ] Presentación y demostración.
 - [x] Aplicación en tiempo real, si se solicita la bonificación.
 
 ## Criterios de calidad
