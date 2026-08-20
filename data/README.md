@@ -13,8 +13,8 @@ data/
 │   ├── profiles.csv
 │   ├── products.csv
 │   ├── purchases.csv
-│   ├── game_matches.csv
-│   └── progress.csv
+│   └── game_matches.csv
+│ 
 └── processed/
     ├── profiles.csv
     ├── products.csv
