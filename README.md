@@ -10,8 +10,8 @@ Este repositorio contiene la aplicación web y la simulación de datos utilizada
 - **Cuatrimestre:** Noveno
 - **Modalidad:** Proyecto colaborativo
 - **Producto final:** Solución analítica aplicada a un negocio digital
-- **Equipo:** Completar con los nombres de los integrantes
-- **Repositorio:** Completar con la URL de GitHub
+- **Equipo:** Cristian Isacc Moreno Jiménez, Juan Manuel Catarino Barrios, Andrea Peña Leal, Brandon Diego Islas Lizardi, Luis Dario Mendoza Morales 
+- **Repositorio:** [URL de GitHub](https://github.com/Isacc-Mex/trip_anaitics_datas)
 - **Aplicación publicada:** Completar con la URL de despliegue, si existe
 
 ## Contexto del negocio
